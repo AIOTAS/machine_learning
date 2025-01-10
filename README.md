@@ -1,5 +1,13 @@
 ﻿# Machine Learning 学习笔记
 
+## 0. 环境安装
+
+### python环境：python=3.13
+
+```shell
+pip install scikit-learn matplotlib
+```
+
 ## 1. 机器学习的三种任务
 
 - 回归问题
